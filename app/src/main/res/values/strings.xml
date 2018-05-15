@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TD API</string>
+    <string name="spotify_marilyn_tops_tracks_url_api">https://api.spotify.com/v1/artists/2VYQTNDsvvKN9wmU5W7xpj/top-tracks?country=FR</string>
+</resources>
